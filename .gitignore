@@ -1,0 +1,8 @@
+# Ignore NumPy arrays
+*.npy
+
+# Ignore joblib model files
+*.joblib
+
+# Ignore macOS Finder metadata
+.DS_Store
