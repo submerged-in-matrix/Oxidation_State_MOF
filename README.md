@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project develops a soft-voting ensemble to assign oxidation states in MOF compounds.
+This project extends and reproduce a published (DOI: https://www.nature.com/articles/s41557-021-00717-y) soft-voting ensemble to assign oxidation states in MOF compounds.
 
 It evaluates whether supervised ML can reproduce and improve upon literature heuristics.
 
