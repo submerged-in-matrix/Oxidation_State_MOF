@@ -15,7 +15,7 @@
 
 ## Motivation
 
-Oxidation state assignment is a deceptively hard problem in materials informatics. For simple ionic solids, electronegativity rules suffice — but in metal-organic frameworks (MOFs) with mixed-valence metals, ambiguous coordination, and complex ligand fields, manual assignment becomes unreliable and heuristics break down.
+Oxidation state assignment is a deceptively hard problem in materials informatics. For simple ionic solids, electronegativity rules suffice — but in metal-organic frameworks (MOFs) with mixed-valence metals, ambiguous coordination, and complex ligand fields, manual assignment becomes unreliable and heuristics break down. With ongoing efforts to innovate high-entropy alooys, a pipeline to assign oxidation state on MOF is of great value.
 
 Jablonka et al. ([Nature Chemistry, 2021](https://doi.org/10.1038/s41557-021-00717-y)) demonstrated that a soft-voting ensemble trained on CSD-derived MOF data with "collective knowledge" labels can assign oxidation states with high accuracy. Crucially, the paper claimed the model transfers to other material types — binary ionic solids, simple metal complexes — beyond its training domain.
 
